@@ -27,5 +27,5 @@ def romb():
             lenght = 1
             offset = height//2
             time.sleep(2)
-if __name__=='__main__':
-    romb()
+#if __name__=='__main__':
+ #   romb()
